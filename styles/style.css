@@ -52,10 +52,6 @@
   text-underline-offset: 4px;
 }
 
-.address__link-no_underline {
-  text-decoration: none;
-}
-
 /* main */
 
 .cover {
